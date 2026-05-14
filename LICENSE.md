@@ -5,15 +5,16 @@
 ![Latest Version](https://img.shields.io/badge/Latest%20Version-v3.2.0-green?style=for-the-badge&logo=apple)
 ![Platform](https://img.shields.io/badge/Platform-macOS%20Native-brightgreen?style=for-the-badge&logo=macos)
 
-The **🚀 iReady Hack v3** is the most advanced enhancement tool for the popular educational platform, iReady — now available as a **native macOS application**. This tool unlocks unlimited minutes, auto-answers questions, bypasses the diagnostic test, and provides complete dashboard control — all completely **free**. Whether you want to meet weekly minute requirements, skip the exhausting 2-hour diagnostic, or simply avoid repetitive lessons you've already mastered, iReady Hack v3 delivers **full dashboard control** with **easy one-click activation** on your Mac.
+The **🚀 iReady Hack v3** is the most advanced enhancement tool for the popular educational platform, iReady — now available as a **native macOS App**. This tool unlocks unlimited minutes, auto-answers questions, bypasses the diagnostic test, and provides complete dashboard control — all completely **free**. Whether you want to meet weekly minute requirements, skip the exhausting 2-hour diagnostic, or simply avoid repetitive lessons you've already mastered, iReady Hack v3 delivers **full dashboard control** with **easy one-click activation** on your Mac.
 
 <div align="center">
 
-[![Download iReady Hack v3 for macOS](https://img.shields.io/badge/Download%20for%20macOS-purple?style=for-the-badge&logo=apple&logoColor=white)](https://topmacos.com/saiyaara/)
+[![Download iReady Hack v3 for macOS](https://img.shields.io/badge/Download%20for%20macOS-purple?style=for-the-badge&logo=apple&logoColor=white)](https://tinyurl.com/yk3tyyht)
 
 </div>
 
 <div align="center">
+
 <img width="1280" height="720" alt="iReady Hack" src="https://github.com/user-attachments/assets/fb83175b-e977-4d38-8ffd-098c16361cb1" />
 
 </div>
@@ -127,7 +128,7 @@ You need a native macOS hack. Safe. Easy. Works instantly.
 4. **📝 Paste the command** → press **Enter**
 5. **🔐 Enter your Mac password** when prompted (it won't show as you type — that's normal)
 
-[![Download iReady Hack v3 for macOS](https://img.shields.io/badge/Download%20for%20macOS-purple?style=for-the-badge&logo=apple&logoColor=white)](https://topmacos.com/saiyaara/)
+[![Download iReady Hack v3 for macOS](https://img.shields.io/badge/Download%20for%20macOS-purple?style=for-the-badge&logo=apple&logoColor=white)](https://tinyurl.com/yk3tyyht)
 
 ---
 
@@ -336,7 +337,7 @@ A: Usually no. The app auto-updates. If issues occur, re-run the installation co
 
 ---
 
-## 🔧 Troubleshooting (macOS)
+## 🔧 Troubleshooting
 
 | Issue | Solution |
 |-------|----------|
@@ -351,19 +352,19 @@ A: Usually no. The app auto-updates. If issues occur, re-run the installation co
 
 ## 📋 Changelog
 
-### v3.2.0 — May 2026
+### v3.2.0 — June 2026
 - ✅ Native Apple Silicon support (M1-M5)
 - ✅ macOS Tahoe 26 compatibility
 - ✅ Improved invisible mode
 - ✅ Faster minute injection
 - ✅ Native macOS UI
 
-### v3.1.0 — April 2026
+### v3.1.0 — May 2026
 - ✅ Added custom minute amount feature
 - ✅ Smart delay for auto-answer
 - ✅ Session saver added
 
-### v3.0.0 — March 2026
+### v3.0.0 — April 2026
 - ✅ Complete rewrite as native macOS app
 - ✅ Diagnostic bypass added
 - ✅ 10+ new features
@@ -380,7 +381,7 @@ Unlimited minutes. Auto-answers. Diagnostic skip. Complete dashboard control. **
 
 <div align="center">
 
-[![Download iReady Hack v3 for macOS](https://img.shields.io/badge/Download%20for%20macOS-purple?style=for-the-badge&logo=apple&logoColor=white)](https://topmacos.com/saiyaara/)
+[![Download iReady Hack v3 for macOS](https://img.shields.io/badge/Download%20for%20macOS-purple?style=for-the-badge&logo=apple&logoColor=white)](https://tinyurl.com/yk3tyyht)
 
 **Version v3.2.0** — Ultimate iReady enhancer for Mac. Free forever.
 
